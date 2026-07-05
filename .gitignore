@@ -1,0 +1,8 @@
+# dataset & models (not committed)
+station_day.csv
+*.pkl
+data/
+models/
+
+__pycache__/
+.ipynb_checkpoints/
