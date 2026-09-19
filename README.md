@@ -19,6 +19,3 @@ pip install -r requirements.txt
 jupyter notebook notebook/AQI_prediction.ipynb
 ```
 
-## Author
-
-Pragun Aggarwal — B.Tech CSE, Thapar Institute of Engineering and Technology
